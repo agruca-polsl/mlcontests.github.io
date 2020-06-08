@@ -440,6 +440,14 @@
          "prize": "$1,500",
          "platform": "CodaLab",
          "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
+     }, {
+         "name": "Traffic4cast (NeurIPS)",
+         "url": "https://www.iarai.ac.at/traffic4cast/",
+         "type": "📷 Computer Vision",
+         "deadline": "15 Oct 2020",
+         "prize": "$10,000",
+         "platform": "IARAI",
+         "sponsor": "IARAI/HERE Technologies"
      }]
-
  }
+ 
